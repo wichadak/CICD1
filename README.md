@@ -1,3 +1,5 @@
+This repository originally cloned from https://github.com/fireship-io/225-github-actions-demo.
+
 # Github Actions Demo
 
 Implement CI/CD with Github Actions. 
